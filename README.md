@@ -1,2 +1,17 @@
 # Playing-With-Terraform
-Use variables for all arguments, output public_ip , private_ip , screenshot of the public ip from the browser, private ip logs also use count for creating subnets
+
+### Creating:
+
+- VPC
+- Public and Private Subnets
+- NAT Getway
+- Internet Getway
+- Public and Private EC2s
+- Security Groups for EC2s
+- Route Tables
+- variables.tf
+- terraform.tfvars
+- output.tf
+- count for creating subnets
+
+![iac](Images/Lab_Requirments.png)
